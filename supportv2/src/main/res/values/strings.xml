@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_gdpr">%s personalizes your advertising experience using Appodeal. Appodeal and its partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you. By consenting to this improved ad experience, you`ll see ads that Appodeal and its partners believe are more relevant to you. Learn more.\n\nBy agreeing, you confirm that you are over the age of 16 and would like a personalized ad experience.</string>
+
+    <string name="gdpr_title">Personalize Your Ad Experience</string>
+    <string name="gdpr_agree">Yes, I agree</string>
+    <string name="gdpr_disagree">No, thank you</string>
+    <string name="gdpr_understand">I understand that I will still see ads, but they may not be as relevant to my interests.</string>
+
+
+
+
+    <string name="app_name">example name</string>
+
+
+    <color name="gplus_color_4">#b23424</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="grey">#878787</color>
+
+    <color name="greys">#B9B9B9</color>
+    <color name="text_title">#323232</color>
+    <color name="bg">#F6F7F8</color>
+    <color name="text_desc">#878787</color>
+    <color name="text_duration">#404040</color>
+    <color name="line">#d9dadb</color>
+    <color name="orange">#f99120</color>
+    <color name="black">#000000</color>
+    <color name="black80">#80000000</color>
+    <color name="white">#ffffff</color>
+</resources>

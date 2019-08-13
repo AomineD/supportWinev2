@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_gdpr">%s personaliza su experiencia publicitaria con Appodeal. Appodeal y sus socios pueden recopilar y procesar datos personales como identificadores de dispositivos, datos de ubicación y otros datos demográficos y de interés para proporcionarle una experiencia publicitaria personalizada. Al aceptar esta experiencia publicitaria mejorada, verá anuncios que Appodeal y sus socios creen que son más relevantes para usted. Obtenga más información. \n\nAceptando, confirma que es mayor de 16 años y desea una experiencia publicitaria personalizada.</string>
+
+    <string name="gdpr_title">Elige tu experiencia con anuncios</string>
+    <string name="gdpr_agree">Estoy de acuerdo</string>
+    <string name="gdpr_disagree">No, gracias</string>
+    <string name="gdpr_understand">Entiendo que todavía veré anuncios, pero es posible que no sean tan relevantes para mis intereses.</string>
+
+
+</resources>
